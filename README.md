@@ -1,5 +1,5 @@
 # asm
-Learning assembly for macosx-x86_64
+Learning assembly for x64
 
 ## Examples
 
